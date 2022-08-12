@@ -64,4 +64,4 @@ Within a HDRP project Unity provides a sample scene with a pre-built environment
 
 More sample HDRP projects are here: https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/HDRP-Sample-Projects.html
 
-To start creating your own HDRP environment, try searching for 'HDRP' in the Unity asset store. This will present downloadable content which you can add to your project and use to build the realistic virtual environment of your choice.
+To start creating your own HDRP environment, try searching for 'HDRP' in the Unity asset store. This will present downloadable models and materials which you can add to your project and use to build the realistic virtual environment of your choice.
