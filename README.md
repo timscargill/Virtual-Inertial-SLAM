@@ -62,6 +62,8 @@ In order to create high-quality, realistic environments with accurate light rend
 
 Within a HDRP project Unity provides a sample scene with a pre-built environment. We used this environment to create an example of Virtual-Inertial-SLAM running in a highly realistic virtual environment (using ORB-SLAM3 and the SenseTime A1 sequence), as you can see below:
 
+![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/RealisticVirtualEnvironments.gif?raw=true)
+
 More sample HDRP projects are here: https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/HDRP-Sample-Projects.html
 
 To start creating your own HDRP environment, try searching for 'HDRP' in the Unity asset store. This will present downloadable models and materials which you can add to your project and use to build the realistic virtual environment of your choice.
