@@ -12,7 +12,7 @@ A solution for VI-SLAM performance evaluations in virtual environments using rea
 5) Sequence characterization and data analysis (_results_analysis.py_): a Python script to analyze the visual and inertial input data in a SLAM sequence, and correlations with pose error.   
 
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
-![GIF of Virtual-Inertial-SLAM in action](https://github.com/Virtual-Inertial-SLAM/Virtual-Inertial-SLAM-Resources/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
+![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
 # Instructions
 
@@ -62,7 +62,7 @@ In order to create high-quality, realistic environments with accurate light rend
 
 Within a HDRP project Unity provides a sample scene with a pre-built environment. We used this environment to create an example of Virtual-Inertial-SLAM running in a highly realistic virtual environment (using ORB-SLAM3 and the SenseTime A1 sequence), as you can see below:
 
-![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/RealisticVirtualEnvironments.gif?raw=true)
+![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/RealisticVirtualEnvironment_crop.gif?raw=true)
 
 More sample HDRP projects are here: https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/HDRP-Sample-Projects.html
 
