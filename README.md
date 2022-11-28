@@ -14,6 +14,20 @@ A solution for VI-SLAM performance evaluations in virtual environments using rea
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
 ![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
+# Citation
+
+If you use Virtual-Inertial-SLAM in an academic work, please cite:
+
+```
+@inproceedings{Virtual-Inertial-SLAM,
+  title={Integrated design of augmented reality spaces using virtual environments},
+  author={Scargill, Tim and Chen, Ying and Marzen, Nathan and Gorlatova, Maria},
+  booktitle={Proceedings of IEEE ISMAR 2022},
+  year={2022}
+ }
+ ```
+
+
 # Instructions
 
 Prerequisites: Unity 2020 or later, open-source SLAM algorithm (e.g., ORB-SLAM3: https://github.com/UZ-SLAMLab/ORB_SLAM3). rpg_trajectory_evaluation toolbox (https://github.com/uzh-rpg/rpg_trajectory_evaluation) and Python required for trajectory evaluation and data analysis steps. 
