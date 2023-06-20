@@ -14,18 +14,6 @@ A solution for VI-SLAM performance evaluations in virtual environments using rea
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
 ![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
-# Citation
-
-If you use Virtual-Inertial-SLAM in an academic work, please cite:
-
-```
-@inproceedings{Virtual-Inertial-SLAM,
-  title={Integrated design of augmented reality spaces using virtual environments},
-  author={Scargill, Tim and Chen, Ying and Marzen, Nathan and Gorlatova, Maria},
-  booktitle={Proceedings of IEEE ISMAR 2022},
-  year={2022}
- }
- ```
 
 
 # Instructions
@@ -81,3 +69,25 @@ Within a HDRP project Unity provides a sample scene with a pre-built environment
 More sample HDRP projects are here: https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/HDRP-Sample-Projects.html
 
 To start creating your own HDRP environment, try searching for 'HDRP' in the Unity asset store. This will present downloadable models and materials which you can add to your project and use to build the realistic virtual environment of your choice.
+
+# Citation
+
+If you use Virtual-Inertial SLAM in academic work, please cite: 
+
+```
+@inproceedings{Virtual-Inertial-SLAM,
+  title={Integrated design of augmented reality spaces using virtual environments},
+  author={Scargill, Tim and Chen, Ying and Marzen, Nathan and Gorlatova, Maria},
+  booktitle={Proceedings of IEEE ISMAR 2022},
+  year={2022}
+ }
+ ```
+
+# Acknowledgements 
+
+The authors of this repository are Tim Scargill and Maria Gorlatova. Contact information of the authors:
+
+* Tim Scargill (timothyjames.scargill AT duke.edu)
+* Maria Gorlatova (maria.gorlatova AT duke.edu)
+
+This work was supported in part by NSF grants CSR-1903136, CNS-1908051, and CNS-2112562, NSF CAREER Award IIS-2046072, and a Facebook Research Award. 
