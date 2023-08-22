@@ -1,5 +1,17 @@
-# Virtual-Inertial-SLAM: Resources
-A solution for VI-SLAM performance evaluations in virtual environments using real inertial data. This repository contains the following resources (see below for instructions):
+# Virtual-Inertial-SLAM
+
+Virtual-Inertial SLAM is a game engine-based emulator for running visual-inertial simultaneous localization and mapping (VI-SLAM) in virtual environments with real inertial data. Virtual visual data (camera images) are generated in the Unity game engine, and combined with the inertial data from existing SLAM datasets, preserving access to ground truth pose data. This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22.
+
+Examples of our other projects which use Virtual-Inertial SLAM include [Invisible Textures](https://github.com/timscargill/Invisible-Textures/) and [SiTAR](https://github.com/timscargill/SiTAR/). 
+
+_Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
+![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
+
+
+
+# Resources
+
+This repository contains the following resources (see below for implementation instructions):
 
 1) Example directory structure (_A1_Name.zip_): A sample of the directory structure which we use to implement our VI-SLAM evaluation methodology.
 
@@ -10,11 +22,6 @@ A solution for VI-SLAM performance evaluations in virtual environments using rea
 4) VI-SLAM trajectory evaluation extension (_trajectory.py_): a Python script that extends an existing trajectory evaluation tool, rpg_trajectory_evaluation (https://github.com/uzh-rpg/rpg_trajectory_evaluation), to provide error data at the sub-trajectory level.
 
 5) Sequence characterization and data analysis (_results_analysis.py_): a Python script to analyze the visual and inertial input data in a SLAM sequence, and correlations with pose error.   
-
-_Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
-![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
-
-
 
 # Instructions
 
@@ -72,7 +79,7 @@ To start creating your own HDRP environment, try searching for 'HDRP' in the Uni
 
 # Citation
 
-If you use Virtual-Inertial SLAM in academic work, please cite: 
+If you use Virtual-Inertial SLAM in an academic work, please cite: 
 
 ```
 @inproceedings{Virtual-Inertial-SLAM,
@@ -82,6 +89,10 @@ If you use Virtual-Inertial SLAM in academic work, please cite:
   year={2022}
  }
  ```
+
+# Other projects which use Virtual-Inertial SLAM:
+
+
 
 # Acknowledgements 
 
