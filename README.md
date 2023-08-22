@@ -1,13 +1,11 @@
 # Virtual-Inertial-SLAM
 
-Virtual-Inertial SLAM is a game engine-based emulator for running visual-inertial simultaneous localization and mapping (VI-SLAM) in virtual environments with real inertial data. Virtual visual data (camera images) are generated in the Unity game engine, and combined with the inertial data from existing SLAM datasets, preserving access to ground truth pose data. This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22.
-
-Examples of our other projects which use Virtual-Inertial SLAM include [Invisible Textures](https://github.com/timscargill/Invisible-Textures/) and [SiTAR](https://github.com/timscargill/SiTAR/). 
+Virtual-Inertial SLAM is a game engine-based emulator for running visual-inertial simultaneous localization and mapping (VI-SLAM) in virtual environments with real inertial data. Virtual visual data (camera images) are generated in the Unity game engine, and combined with the inertial data from existing SLAM datasets, preserving access to ground truth pose data. These source data can then be input to a VI-SLAM algorithm such as ORB-SLAM3, as illustrated below:
 
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
 ![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
-
+This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Examples of our other projects which use Virtual-Inertial SLAM include [Invisible Textures](https://github.com/timscargill/Invisible-Textures/) and [SiTAR](https://github.com/timscargill/SiTAR/).
 
 # Resources
 
