@@ -5,7 +5,14 @@ Virtual-Inertial SLAM is a game engine-based emulator for running visual-inertia
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
 ![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
-This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Examples of our other projects which use Virtual-Inertial SLAM include [Invisible Textures](https://github.com/timscargill/Invisible-Textures/) and [SiTAR](https://github.com/timscargill/SiTAR/).
+This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Other projects which use Virtual-Inertial SLAM include: 
+
+Invisible Textures         |  SiTAR
+:-------------------------:|:-------------------------:
+![](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Invisible-Textures_Image-Link.png)  |  ![](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/SiTAR_Image-Link.png)
+
+
+[Invisible Textures](https://github.com/timscargill/Invisible-Textures/) and [SiTAR](https://github.com/timscargill/SiTAR/).
 
 # Resources
 
@@ -87,10 +94,6 @@ If you use Virtual-Inertial SLAM in an academic work, please cite:
   year={2022}
  }
  ```
-
-# Other projects which use Virtual-Inertial SLAM:
-
-
 
 # Acknowledgements 
 
