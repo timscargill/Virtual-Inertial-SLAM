@@ -90,4 +90,4 @@ The authors of this repository are Tim Scargill and Maria Gorlatova. Contact inf
 * Tim Scargill (timothyjames.scargill AT duke.edu)
 * Maria Gorlatova (maria.gorlatova AT duke.edu)
 
-This work was supported in part by NSF grants CSR-1903136, CNS-1908051, and CNS-2112562, NSF CAREER Award IIS-2046072, and a Facebook Research Award. 
+This work was supported in part by NSF grants CSR-1903136, CNS-1908051, and CNS-2112562, NSF CAREER Award IIS-2046072, and a Meta Research Award. 
