@@ -5,7 +5,7 @@ Virtual-Inertial SLAM is a game engine-based emulator for running visual-inertia
 _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM3 and the SenseTime dataset (camera image is oriented this way due to orientation of the smartphone device used in this dataset):_
 ![GIF of Virtual-Inertial-SLAM in action](https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Virtual-Inertial-SLAM.gif?raw=true)
 
-This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Other projects which use Virtual-Inertial SLAM include (images link to GitHub repositories):
+This repository accompanies the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Other projects which use Virtual-Inertial SLAM include (images link to GitHub repositories):
 
 <p float="left">
   <a href="https://github.com/timscargill/Invisible-Textures" target="_blank"><img src="https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Invisible-Textures_Image-Link.png" width="200" /></a>
