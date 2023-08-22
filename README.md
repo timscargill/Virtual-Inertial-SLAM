@@ -8,8 +8,8 @@ _Virtual-Inertial-SLAM in action in a virtual museum environment, using ORB-SLAM
 This repository accompanies the the paper '[_Integrated design of augmented reality spaces using virtual environments_](https://ieeexplore.ieee.org/document/9995481)', in Proceedings of IEEE ISMAR `22. Other projects which use Virtual-Inertial SLAM include:
 
 <p float="left">
-  <img src="https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Invisible-Textures_Image-Link.png" width="200" />
-  <img src="https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/SiTAR_Image-Link.png" width="200" /> 
+  <a href="https://github.com/timscargill/Invisible-Textures"><img src="https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/Invisible-Textures_Image-Link.png" width="200" /></a>
+  <a href="https://github.com/timscargill/SiTAR"><img src="https://github.com/timscargill/Virtual-Inertial-SLAM/blob/main/SiTAR_Image-Link.png" width="200" /></a> 
 </p>
 
 # Resources
